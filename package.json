@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.1.12",
+    "@vercel/edge": "^1.2.2",
     "tailwindcss": "^4.1.12"
   }
 }
